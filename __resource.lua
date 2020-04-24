@@ -1,0 +1,1 @@
+client_script "3dtext.lua"

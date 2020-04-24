@@ -8,7 +8,7 @@ MarcusTheMaker FiveM 3D text
 
 2) Placer mappen 3Dtext i din "resources" mappe
  
-3) Tilføj dette til din server.cfg 
+3) TilfÃ¸j dette til din server.cfg 
 
 ```
 start 3Dtext
@@ -16,15 +16,15 @@ start 3Dtext
 
   [HVORDAN SCRIPTET BRUGES]
 
-
+Youtube: https://youtu.be/dm3rcKhE-eM
 
   [FEATURES]
 * 3D text.
-* Du kan selv bestemme hvor langt væk man skal være for texten, Før den forsvinder.
-* Tilføje Nye 3D texter lige hvor du ville have dem
+* Du kan selv bestemme hvor langt vÃ¦k man skal vÃ¦re for texten, FÃ¸r den forsvinder.
+* TilfÃ¸je Nye 3D texter lige hvor du ville have dem
 
 
   [SUPPORT]
-Tilføj min discord: ????????????????????????????#0779
+TilfÃ¸j min discord: MarcusTheMaker#0779
 
-FiveM server hjælp: https://discord.gg/C6DqavQ
+FiveM server hjÃ¦lp: https://discord.gg/C6DqavQ
